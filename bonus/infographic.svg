@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic','WenQuanYi Zen Hei',sans-serif">
+  <rect width="1200" height="675" fill="#ffffff"/>
+  <rect x="0" y="0" width="1200" height="96" fill="#1f3a5f"/>
+  <text x="60" y="60" font-size="34" font-weight="700" fill="#ffffff">그린루프 '루프스테이션' 정식 출시</text>
+  <text x="1140" y="60" font-size="20" fill="#cfe3d6" text-anchor="end">2026년 11월 2일 · 서울 52곳</text>
+
+  <!-- left: numbers -->
+  <text x="60" y="150" font-size="20" fill="#5a6b7d">시범운영 결과 (2026년 7월 1일~9월 30일, 92일)</text>
+  <g>
+    <rect x="60" y="175" width="460" height="110" rx="14" fill="#eef5f0"/>
+    <text x="90" y="220" font-size="20" fill="#3d6b4f">대여</text>
+    <text x="90" y="265" font-size="40" font-weight="700" fill="#1f3a5f">13만 4,300건</text>
+
+    <rect x="60" y="300" width="460" height="110" rx="14" fill="#eef5f0"/>
+    <text x="90" y="345" font-size="20" fill="#3d6b4f">반납</text>
+    <text x="90" y="390" font-size="40" font-weight="700" fill="#1f3a5f">12만 4,000건</text>
+
+    <rect x="60" y="425" width="460" height="110" rx="14" fill="#2f7d4f"/>
+    <text x="90" y="470" font-size="20" fill="#d9efe1">회수율 (반납 ÷ 대여)</text>
+    <text x="90" y="515" font-size="44" font-weight="700" fill="#ffffff">92.3%</text>
+  </g>
+  <text x="60" y="570" font-size="18" fill="#5a6b7d">일평균 반납 1,348건 (124,000건 ÷ 92일, 반올림)</text>
+
+  <!-- right: station icon -->
+  <g transform="translate(640,170)">
+    <rect x="60" y="0" width="200" height="300" rx="18" fill="#1f3a5f"/>
+    <rect x="95" y="40" width="130" height="70" rx="8" fill="#cfe3d6"/>
+    <text x="160" y="84" font-size="20" font-weight="700" fill="#1f3a5f" text-anchor="middle">RETURN</text>
+    <rect x="120" y="140" width="80" height="16" rx="8" fill="#0f2238"/>
+    <rect x="95" y="190" width="130" height="80" rx="8" fill="#2a4d78"/>
+    <!-- cup -->
+    <path d="M330 120 L410 120 L398 240 L342 240 Z" fill="#2f7d4f"/>
+    <rect x="322" y="104" width="96" height="18" rx="6" fill="#3d6b4f"/>
+    <path d="M300 180 L270 160" stroke="#2f7d4f" stroke-width="6" stroke-linecap="round"/>
+    <path d="M270 160 L282 158 M270 160 L276 171" stroke="#2f7d4f" stroke-width="6" stroke-linecap="round"/>
+  </g>
+  <text x="800" y="510" font-size="22" font-weight="700" fill="#1f3a5f" text-anchor="middle">다 마신 다회용 컵, 넣기만 하면 반납</text>
+
+  <!-- footer -->
+  <rect x="640" y="540" width="500" height="70" rx="12" fill="#f4f6f8"/>
+  <text x="660" y="572" font-size="18" fill="#1f3a5f">마포구 · 성동구 · 광진구 대학가 · 오피스 상권 52곳</text>
+  <text x="660" y="598" font-size="16" fill="#5a6b7d">정식 출시 기준 참여 카페 110곳 (시범운영 85곳)</text>
+  <text x="60" y="640" font-size="14" fill="#8a97a5">출처: 그린루프 팩트시트 (가상 기업) · 엠바고 2026년 11월 2일 06:00 이후 게시</text>
+</svg>
